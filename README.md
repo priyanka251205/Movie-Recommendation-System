@@ -13,7 +13,7 @@ A content-based recommendation system built with **Streamlit** and **NLP**, whic
 
 - `app.py`: Main Streamlit app
 - `BollywoodMovieDetail.csv`: Dataset
-- `notebook.ipynb`: Development notebook
+- `movie recommendation system.ipynb`: Development notebook
 
 ## ▶️ How to Run
 
